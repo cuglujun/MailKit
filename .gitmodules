@@ -1,0 +1,3 @@
+[submodule "MailKit/Vendor/MailCore"]
+	path = MailKit/Vendor/MailCore
+	url = https://github.com/krafttuc/MailCore.git
